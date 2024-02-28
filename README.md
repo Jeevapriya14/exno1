@@ -169,5 +169,6 @@ df
 ```
 
 <img width="92" alt="image" src="https://github.com/Jeevapriya14/outliers/assets/121003043/5301b7b2-4d45-4de9-8325-977728782e28">
-# Result
+
+# Result:
 Thus,The output has been successfully verified!
